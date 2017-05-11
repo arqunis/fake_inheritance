@@ -1,0 +1,8 @@
+[package]
+name = "fake_inheritance"
+version = "0.1.1"
+authors = ["acdenisSK <acdenissk69@gmail.com>"]
+description = "A little utility macro"
+repository = "https://github.com/acdenisSK/fake_inheritance"
+license = "MIT"
+documentation = "https://docs.rs/fake_inheritance"
